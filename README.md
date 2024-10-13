@@ -30,8 +30,8 @@ cd whatsapp-chat-analyser-webapp
 - Sentiment Analysis: Provides detailed sentiment breakdowns for each user in the conversation, using BERT to understand complex language patterns in chats.
 - Word Clouds & Emoji Analysis: Visualizes word frequency and emoji usage patterns, offering insights into the tone and mood of the conversation.
 - Sentiment Heatmaps: Displays how sentiments fluctuate over time, helping you track changes in group dynamics and emotional tone.
-- 
-##🛠️ Technologies Used
+   
+## 🛠️ Technologies Used
 Python: Backend processing and logic.
 Flask: Web framework for building the app.
 BERT: Fine-tuned language model for sentiment analysis.
